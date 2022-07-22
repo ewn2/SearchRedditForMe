@@ -6,11 +6,12 @@ function search(args) {
             'url': url,
             'active': true
         };
-        if(browserInfo.name !== 'Fennec'){
+        if (browserInfo.name !== 'Fennec') {
             params.openerTabId = args.openerTab.id;
         }
-        browser.tabs.create(params, function(newTab) {
+        browser.tabs.create(params, function (newTab) {
             browser.tabs.executeScript(newTab.id, {file: 'contentScript.js'});
             resolve();
         });
     });
+}
