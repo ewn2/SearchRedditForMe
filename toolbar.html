@@ -1,21 +1,25 @@
+<!doctype html>
+<html>
 <style>
     form {
         padding: 0;
         margin: 0;
     }
 
-    #inputbox {
+    #inputBox {
         width: 20.5em;
         margin-right: 4px;
     }
 
-    #submitbutton {}
+    #submitButton {}
 </style>
-
 <body>
-<form id=inputform><input name="q" type=search spellcheck=false id=inputbox autofocus /><input type=submit id=submitbutton value="Search" />
+<form id=inputForm>
+    <input name="q" type=search placeholder="Search Reddit" spellcheck=false id=inputBox autofocus />
+    <input type=submit id=submitButton value="Search" />
 </form>
 <script src=punycode.js></script>
 <script src=search.js></script>
 <script src=popup.js></script>
 </body>
+</html>
