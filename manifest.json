@@ -10,6 +10,14 @@
   },
   "browser_action": {
     "default_title": "Search Reddit",
-    "default_icon": "images/icon_96.png"
+    "default_icon": "images/icon_96.png",
+    "default_popup": "popup.html",
+    "browser_style": false
+  },
+  "background": {
+    "scripts": [
+      "popup.js",
+      "search.js"
+    ]
   }
 }
