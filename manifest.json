@@ -1,7 +1,7 @@
 {
-  "name": "Search Reddit For Me",
+  "name": "Search Reddit tool",
   "version": "1.0.0",
-  "description": "Uses a search engine to look up results on Reddit as an alternative to the native Reddit search",
+  "description": "Uses a search engine to find results on the Reddit website",
   "manifest_version": 2,
   "permissions": ["search", "storage", "tabs"],
   "icons": {
