@@ -6,3 +6,6 @@ and I'm tired of writing site:reddit.com every single time I want to look someth
 Installation Links<br>
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/search-on-reddit-tool/<br><br>
 Google Chrome/Chromium: Awaiting Approval
+
+
+https://github.com/ewn2/SearchRedditForMeChromium
