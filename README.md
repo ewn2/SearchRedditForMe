@@ -7,4 +7,4 @@ Installation Links<br>
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/search-on-reddit-tool/<br><br>
 Google Chrome/Chromium: https://chrome.google.com/webstore/detail/search-on-reddit-tool/bllkceeemjghpnindahbkoanoeakdbnc
 
-Chrome/Chromium Source: https://github.com/ewn2/SearchRedditForMeChromium
+Google Chrome/Chromium Source: https://github.com/ewn2/SearchRedditForMeChromium
